@@ -1,0 +1,161 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+nav{
+    height: 50px;
+}
+nav .menu ul{
+    list-style: none;
+}
+nav .menu ul li{
+    float: left;
+    line-height: 40px;  
+    padding: 0 15px;
+}
+nav .menu ul li a{
+    color:red;
+    background-color: white;
+    font-size: 35px;
+    text-decoration-line: none;
+}
+nav .sign ul{
+    list-style: none;
+}
+nav .sign ul li{
+    float: right;
+    line-height: 35px;
+    padding: 0 15px;
+}
+nav .sign ul li a{
+    color:aliceblue;
+    background: red;
+    font-size: 35px;
+    text-decoration-line: none;
+}
+nav .nap {
+    text-align: left;
+    padding: 5px;
+    color:white;
+}
+nav{
+    padding: 5px;
+}
+nav .chung{
+    padding: 0px;
+    border: 2px solid black;
+    margin: 3px;
+    background-color: black;
+}
+nav .ok li{
+    list-style: none;
+    text-align: center;
+}
+nav .ok li a{
+    color:black;
+    font-size: 25px;
+    text-decoration-line: none;
+    background-color: yellow;
+    text-align: right;
+}
+h1{
+    padding-left: 18cm;
+    padding-top: 5cm;
+}
+article .s1{
+    margin-left: 1%;
+    margin-right: 1%;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+}
+article .s2{
+    margin-right: 1%;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+}
+article .s3{
+    margin-right: 1%;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+}    
+article .s4{
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+}    
+article .s5{
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+}
+article .s6{
+    margin-top: 1%;
+    margin-right: 1%;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+}
+article .s7{
+    margin-top: 1%;
+    margin-right: 1%;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+}
+article .s8{
+    margin-top: 1%;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+}
+article .s9{
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+}
+article .s10{
+    margin-top: 1%;
+    margin-right: 1%;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+}
+article .s11{
+    margin-top: 1%;
+    margin-right: 1%;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+}
+article .s12{
+    margin-top: 1%;
+    border: 1px solid black;
+    float: left;
+}
+.trang{
+    background-color: black;
+    width: 1470px;
+    height: 220px;
+    margin-top: 8cm;
+}
+.trang1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: white;
+}
+.trang2 h3{
+    text-align: right;
+    color: white;
+}
+
+   

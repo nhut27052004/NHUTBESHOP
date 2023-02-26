@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+a{
+    text-align:left;
+    text-decoration: none;
+    margin-bottom: 2cm;
+    font-size: larger;
+    color: red;
+}    
+p{
+    text-align: left;
+}
+.trang{
+    background-color: black;
+    width: 1470px;
+    height: 220px;
+    margin-top: 2cm;
+}
+.trang1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: white;
+}
+.trang2 h3{
+    text-align: right;
+    color: white;
+}

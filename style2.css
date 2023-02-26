@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+nav{
+    height: 50px;
+}
+nav .menu ul{
+    list-style: none;
+}
+nav .menu ul li{
+    float: left;
+    line-height: 40px;  
+    padding: 0 15px;
+}
+nav .menu ul li a{
+    color:red;
+    background-color: white;
+    font-size: 35px;
+    text-decoration-line: none;
+}
+nav .sign ul{
+    list-style: none;
+}
+nav .sign ul li{
+    float: right;
+    line-height: 35px;
+    padding: 0 15px;
+}
+nav .sign ul li a{
+    color:aliceblue;
+    background: red;
+    font-size: 35px;
+    text-decoration-line: none;
+}
+nav .nap {
+    text-align: left;
+    padding: 5px;
+    color:white;
+}
+nav{
+    padding: 5px;
+}
+nav .chung{
+    padding: 0px;
+    border: 2px solid black;
+    margin: 3px;
+    background-color: black;
+}
+nav .ok li{
+    list-style: none;
+    text-align: center;
+}
+nav .ok li a{
+    color:black;
+    font-size: 25px;
+    text-decoration-line: none;
+    background-color: yellow;
+    text-align: right;
+}
+article .GT{
+    margin-left: 1%;
+    margin-right: 10px;
+    margin-top:10px ;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+    position: relative;
+    width: 155px;
+    height: 50px;
+}
+h1{
+    padding-left: 18cm;
+    padding-top: 5cm;
+}
+h2{
+    text-align: center;
+    margin-top: 3px;
+}
+article .ds{
+    margin-left: 4%;
+    margin-right: 1%;
+    border: 1px solid black;
+    float: left;
+    text-align: center;
+    margin-top: 1%;
+}
+style{
+    width: 150px;
+    height: 50px;
+}
+article .ds .a{
+    background-color:aqua;
+    color: white;
+    text-align: center;
+}
